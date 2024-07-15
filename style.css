@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#etchContainer{
+    border: solid #000 10px;
+    width: 600px;
+    height: 600px;
+}
+
+#title{
+    margin-left: 80px;
+}
